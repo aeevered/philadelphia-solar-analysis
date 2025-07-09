@@ -1,1 +1,1 @@
-# Investigation of Rooftop Solar in Philadelphia, PA
+# Analysis of Rooftop Solar in Philadelphia, PA
