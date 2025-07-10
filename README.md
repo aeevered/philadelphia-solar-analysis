@@ -2,3 +2,6 @@
 
 
 This project is an analysis of rooftop solar in Philadelphia, PA using Google's Project Sunroof data.
+
+
+# Background
