@@ -15,7 +15,7 @@ The purpose of this project is to evaluate rooftop solar in Philadelphia, PA usi
 
 ## Project Background
 
-The purpose of this analysis is to understand solar potential and adoption in Philadelphia PA.
+The purpose of this analysis is to understand solar potential and adoption in Philadelphia, PA.
 
 Existing research points to significant disparities in the adoption of solar technologies across both race and income categories. While this existing research provides a useful overview of national rooftop solar trends, individual cities deserve closer examination. In particular, a better understanding of city-specific trends in solar panel adoption can help ensure more equitable and sustainable energy policies within those cities. This analysis focuses specifically on the city of Philadelphia, PA and explores whether the spatial and demographic trends within the city mirror those found nationally. 
 
